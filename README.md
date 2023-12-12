@@ -15,11 +15,7 @@ Rest of the files deal with either pretraining on Conceptual Captions or the VQA
 ### Conda Environment (Option I, Recommended)
 0) Recursively ssh clone the repo to include `coco` and `pythia` submodules.
 ```
-git clone --recursive git@github.com:LuoweiZhou/VLP.git
-```
-or clone with https:
-```
-git clone --recursive https://github.com/LuoweiZhou/VLP.git
+git clone --recursive https://github.com/120205690/597-Course-Project.git
 ```
 
 1) Install CUDA (e.g., 10.0), CUDNN (e.g., v7.5), and [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (either Miniconda2 or 3, version 4.6+).
