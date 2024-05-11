@@ -1,4 +1,4 @@
-# 597-Course-Project
+# Unified Vision-Language Pre-training (VLP).
 This repo hosts an implementation of Zhou (2020)'s work on [Unified Vision-Language Pre-training (VLP)](https://arxiv.org/pdf/1909.11059.pdf).
 ## File Description
 
@@ -49,5 +49,5 @@ Trained model checkpoints are contained in the flickr30k folder <br>
 
 # Acknowledgement
 
-All credits for the code go to https://github.com/LuoweiZhou/VLP <br>
+All credits go to https://github.com/LuoweiZhou/VLP <br>
 Check out their AIII 2020 Paper at [Unified Vision-Language Pre-training (VLP)](https://arxiv.org/pdf/1909.11059.pdf).
