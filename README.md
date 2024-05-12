@@ -2,13 +2,13 @@
 This repo hosts an implementation of Zhou (2020)'s work on [Unified Vision-Language Pre-training (VLP)](https://arxiv.org/pdf/1909.11059.pdf).
 ## File Description
 
-VLP_Inference -> To test the released model <br>
-VLP_TrainTest.ipynb -> To train the model on Flickr30k <br>
-VLP_Hyperparameter -> To To train the model with new hyperparameters on Flickr30k <br>
-run_img2txt_dist.py -> Runs the training loop <br>
-decode_img2txt.py -> Runs the testing loop <br>
-seq2seq_loader.py -> Defines the seq2seq training objective <br>
-scst_utils.py -> Defines Self-Critical Sequence Training (SCST) for COCO dataset (not used here) <br>
+```VLP_Inference ``` :  To test the released model <br>
+```VLP_TrainTest.ipynb ``` :  To train the model on Flickr30k <br>
+```VLP_Hyperparameter ``` :  To To train the model with new hyperparameters on Flickr30k <br>
+```run_img2txt_dist.py ``` :  Runs the training loop <br>
+```decode_img2txt.py ``` :  Runs the testing loop <br>
+```seq2seq_loader.py ``` :  Defines the seq2seq training objective <br>
+```scst_utils.py ``` :  Defines Self-Critical Sequence Training (SCST) for COCO dataset (not used here) <br>
 Rest of the files deal with either pretraining on Conceptual Captions or the VQA task and have not been used here <br>
 
 ## Installation
