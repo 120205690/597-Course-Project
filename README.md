@@ -42,10 +42,10 @@ cd coco-caption
 
 # Inference and Testing
 
-*To run the code locally, install NVIDIA Apex from https://github.com/NVIDIA/apex <br>
-*To run on Colab, try installing NVIDIA Apex using the shell script given. <br>
-*If it doesn't install correctly, run VLP_TrainTest.ipynb. Else use original run_img2txt_dist.py from  [Vision-Language Pre-training (VLP)](https://github.com/LuoweiZhou/VLP)) <br>
-*Trained model checkpoints are contained in the flickr30k folder <br>
+* To run the code locally, install NVIDIA Apex from https://github.com/NVIDIA/apex <br>
+* To run on Colab, try installing NVIDIA Apex using the shell script given. <br>
+* If it doesn't install correctly, run VLP_TrainTest.ipynb. Else use original run_img2txt_dist.py from  [Vision-Language Pre-training (VLP)](https://github.com/LuoweiZhou/VLP)) <br>
+* Trained model checkpoints are contained in the flickr30k folder <br>
 
 # Acknowledgement
 
